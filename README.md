@@ -1,9 +1,9 @@
 # Awesome Gatling
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](https://github.com/aliesbelik/awesome-gatling/blob/master/CONTRIBUTING.md)
 
-[<img src="assets/images/gatling-logo.svg" align="right" width="260" alt="Gatling">](https://gatling.io/)
-
 A curated collection of resources covering all aspects of load-testing using [Gatling](https://gatling.io/) and related stuff: plugins, integrations, testing techniques, devops practicies, etc.
+
+[<img src="assets/images/gatling-logo.svg" align="right" width="260" alt="Gatling">](https://gatling.io/)
 
 > [Gatling](https://gatling.io/) is an open-source load and performance testing framework based on Scala, Akka and Netty.
 
@@ -14,6 +14,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome) project.
 - [Official Resources](#official-resources)
 - [Getting Started](#getting-started)
 - [Tutorials](#tutorials)
+- [Distributed Testing](#distributed-testing)
 - [Plugins](#plugins)
 - [Tips & Tricks](#tips--tricks)
 - [Community](#community)
@@ -37,6 +38,12 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome) project.
 - [A first look at Gatling, a DSL based load test tool](https://callistaenterprise.se/blogg/teknik/2014/04/16/a-first-look-at-gatling-a-dsl-based-load-test-tool/)
 
 ## Tutorials
+
+## Distributed Testing
+
+- [Scaling out with Gatling](https://gatling.io/docs/current/cookbook/scaling_out/) - Recipe to use several Gatling instances hosted using multiple machines from official Gatling documentation.
+- [Distributed load testing with Gatling and Kubernetes](https://medium.com/de-bijenkorf-techblog/https-medium-com-annashepeleva-distributed-load-testing-with-gatling-and-kubernetes-93ebce26edbe)
+- [Gatling – Scaling Out Your Load Tests](http://www.nimrodstech.com/gatling-cluster-load-testing/)
 
 ## Plugins
 
