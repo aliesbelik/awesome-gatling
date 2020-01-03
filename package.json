@@ -1,0 +1,25 @@
+{
+  "name": "awesome-gatling",
+  "description": "A collection of resources covering different aspects of Gatling performance-testing tool usage",
+  "author": "Aliaksandr Belik",
+  "license": "CC-BY-4.0",
+  "scripts": {
+    "test": "awesome-lint"
+  },
+  "devDependencies": {
+    "awesome-lint": "*"
+  },
+  "keywords": [
+    "awesome",
+    "awesome-list",
+    "awesome-gatling",
+    "gatling",
+    "gatling-plugin",
+    "load-testing",
+    "performance-testing"
+  ],
+  "bugs": {
+    "url": "https://github.com/aliesbelik/awesome-gatling/issues"
+  },
+  "homepage": "https://github.com/aliesbelik/awesome-gatling#readme"
+}
