@@ -17,6 +17,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome) project.
 - [Distributed Testing](#distributed-testing)
 - [Plugins](#plugins)
 - [Tips & Tricks](#tips--tricks)
+- [Trainings & Courses](#trainings--courses)
 - [Community](#community)
   - [Twitter](#twitter)
   - [Q&A](#qa)
@@ -36,8 +37,13 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome) project.
 
 - [Load testing with Gatling.io](https://blog.pragmatists.com/load-testing-with-gatling-io-2a128fccfb3e)
 - [A first look at Gatling, a DSL based load test tool](https://callistaenterprise.se/blogg/teknik/2014/04/16/a-first-look-at-gatling-a-dsl-based-load-test-tool/)
+- [Gatling: Take your performance tests to the next level](https://www.thoughtworks.com/insights/blog/gatling-take-your-performance-tests-next-level)
 
 ## Tutorials
+
+- [Load testing gRPC services with Gatling](https://medium.com/@georgeleung_7777/load-testing-grpc-services-with-gatling-990025c77055)
+- [Creating a custom Gatling prococol for AWS Lambda](https://callistaenterprise.se/blogg/teknik/2016/11/26/gatling-custom-protocol/)
+- [Load testing ZeroMQ with a custom DSL for Gatling](http://mintbeans.com/load-testing-zeromq-with-gatling/)
 
 ## Distributed Testing
 
@@ -47,7 +53,20 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome) project.
 
 ## Plugins
 
+- [gatling-sbt](https://github.com/gatling/gatling-sbt) - Gatling SBT plugin to integrate Gatling with SBT, allowing to use Gatling as a testing framework.
+- [gatling-build-plugin](https://github.com/gatling/gatling-build-plugin) - A SBT plugin to share common settings across Gatling's projects' builds.
+- [gatling-grpc](https://github.com/phiSgr/gatling-grpc) - Gatling load test plugin for gRPC.
+- [gatling-aws](https://github.com/callistaenterprise/gatling-aws) - Gatling custom protocol for AWS Lambda.
+- [gatling-xmpp-protocol](https://github.com/TLmaK0/gatling-xmpp-protocol) - XMPP protocol for stress test XMPP servers with Gatling.
+
 ## Tips & Tricks
+
+## Trainings & Courses
+
+- Gatling courses by Udemy:
+  - [Performance Testing using Gatling - Beginner Level](https://www.udemy.com/course/performance-testing-using-gatling/)
+  - [Performance Testing using Gatling - Advanced Level](https://www.udemy.com/course/performance-testing-using-gatling-advanced-level/)
+  - [Gatling Fundamentals for Stress, Load & Performance Testing](https://www.udemy.com/course/gatling-fundamentals/)
 
 ## Community
 
