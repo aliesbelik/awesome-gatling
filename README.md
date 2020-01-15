@@ -1,5 +1,5 @@
 # Awesome Gatling
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](https://github.com/aliesbelik/awesome-gatling/blob/master/CONTRIBUTING.md)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md)
 
 A curated collection of resources covering all aspects of load-testing using [Gatling](https://gatling.io/) and related stuff: plugins, integrations, testing techniques, devops practicies, etc.
 
@@ -96,8 +96,8 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome) project.
 
 ## Contributing
 
-Contributions are welcome!<br />
-Please take a look at the [contribution guidelines](https://github.com/aliesbelik/awesome-gatling/blob/master/CONTRIBUTING.md) first.
+Contributions are welcome!\
+Please take a look at the [contribution guidelines](CONTRIBUTING.md) first.
 
 ## License
 
