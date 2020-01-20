@@ -1,13 +1,11 @@
-# Awesome Gatling
+# Awesome Gatling [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md)
-
-A curated collection of resources covering all aspects of load-testing using [Gatling](https://gatling.io/) and related stuff: plugins, integrations, testing techniques, devops practicies, etc.
 
 [<img src="assets/images/gatling-logo.svg" align="right" width="260" alt="Gatling">](https://gatling.io/)
 
-> [Gatling](https://gatling.io/) is an open-source load and performance testing framework based on Scala, Akka and Netty.
+A curated collection of resources covering all aspects of load-testing using [Gatling](https://gatling.io/) and related stuff: plugins, integrations, testing techniques, devops practicies, etc.
 
-Inspired by [awesome](https://github.com/sindresorhus/awesome) project.
+> [Gatling](https://gatling.io/) is an open-source load and performance testing framework based on Scala, Akka and Netty.
 
 ## Contents
 
@@ -101,4 +99,4 @@ Please take a look at the [contribution guidelines](CONTRIBUTING.md) first.
 
 ## License
 
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under the <a rel="license" href="https://github.com/aliesbelik/awesome-gatling/blob/master/LICENSE.md">CC-BY-4.0</a>.
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a>
