@@ -16,6 +16,7 @@ A curated collection of resources covering all aspects of load-testing using [Ga
 - [Plugins](#plugins)
 - [Tips & Tricks](#tips--tricks)
 - [Trainings & Courses](#trainings--courses)
+- [Videos](#videos)
 - [Community](#community)
   - [Twitter](#twitter)
   - [Q&A](#qa)
@@ -66,11 +67,15 @@ A curated collection of resources covering all aspects of load-testing using [Ga
   - [Performance Testing using Gatling - Advanced Level](https://www.udemy.com/course/performance-testing-using-gatling-advanced-level/)
   - [Gatling Fundamentals for Stress, Load & Performance Testing](https://www.udemy.com/course/gatling-fundamentals/)
 
+## Videos
+
+- [Tutorial: Performance Testing with Gatling](https://www.youtube.com/playlist?list=PLd4gvNaNZ4T3NCWsv3zwHYlLGtr9s1-Fz)
+
 ## Community
 
 ### Twitter
 
-- [@GatlingTool](https://twitter.com/gatlingtool) - Official Twitter account of the Gatling and  Gatling FrontLine load testing solutions.
+- [@GatlingTool](https://twitter.com/gatlingtool) - Official Twitter account of the Gatling and Gatling FrontLine load testing solutions.
 
 ### Q&A
 
@@ -94,7 +99,7 @@ A curated collection of resources covering all aspects of load-testing using [Ga
 
 ## Contributing
 
-Contributions are welcome!\
+Contributions are welcome!<br>
 Please take a look at the [contribution guidelines](CONTRIBUTING.md) first.
 
 ## License
