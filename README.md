@@ -14,7 +14,7 @@ A curated collection of resources covering all aspects of load-testing using [Ga
 - [Tutorials](#tutorials)
 - [Distributed Testing](#distributed-testing)
 - [Plugins](#plugins)
-- [Tips & Tricks](#tips--tricks)
+- [Frameworks](#frameworks)
 - [Trainings & Courses](#trainings--courses)
 - [Videos](#videos)
 - [Community](#community)
@@ -58,7 +58,9 @@ A curated collection of resources covering all aspects of load-testing using [Ga
 - [gatling-aws](https://github.com/callistaenterprise/gatling-aws) - Gatling custom protocol for AWS Lambda.
 - [gatling-xmpp-protocol](https://github.com/TLmaK0/gatling-xmpp-protocol) - XMPP protocol for stress test XMPP servers with Gatling.
 
-## Tips & Tricks
+## Frameworks
+
+- [Karate Gatling](https://intuit.github.io/karate/karate-gatling/) - Re-use Karate API-tests as performance tests executed by Gatling.
 
 ## Trainings & Courses
 
