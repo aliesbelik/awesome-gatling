@@ -1,5 +1,4 @@
 # Awesome Gatling [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md)
 
 [<img src="assets/images/gatling-logo.svg" align="right" width="260" alt="Gatling">](https://gatling.io/)
 
@@ -37,6 +36,7 @@ A curated collection of resources covering all aspects of load-testing using [Ga
 - [Load testing with Gatling.io](https://blog.pragmatists.com/load-testing-with-gatling-io-2a128fccfb3e)
 - [A first look at Gatling, a DSL based load test tool](https://callistaenterprise.se/blogg/teknik/2014/04/16/a-first-look-at-gatling-a-dsl-based-load-test-tool/)
 - [Gatling: Take your performance tests to the next level](https://www.thoughtworks.com/insights/blog/gatling-take-your-performance-tests-next-level)
+- [Load Testing with Gatling. The Complete Guide](https://www.james-willett.com/gatling-load-testing-complete-guide/)
 
 ## Tutorials
 
@@ -55,6 +55,7 @@ A curated collection of resources covering all aspects of load-testing using [Ga
 - [gatling-sbt](https://github.com/gatling/gatling-sbt) - Gatling SBT plugin to integrate Gatling with SBT, allowing to use Gatling as a testing framework.
 - [gatling-build-plugin](https://github.com/gatling/gatling-build-plugin) - A SBT plugin to share common settings across Gatling's projects' builds.
 - [gatling-maven-plugin](https://github.com/gatling/gatling-maven-plugin) - Gatling Maven Extensions.
+- [gradle-gatling-plugin](https://github.com/lkishalmi/gradle-gatling-plugin) - Gatling plugin for Gradle.
 - [gatling-grpc](https://github.com/phiSgr/gatling-grpc) - Gatling load test plugin for gRPC.
 - [gatling-aws](https://github.com/callistaenterprise/gatling-aws) - Gatling custom protocol for AWS Lambda.
 - [gatling-xmpp-protocol](https://github.com/TLmaK0/gatling-xmpp-protocol) - XMPP protocol for stress test XMPP servers with Gatling.
@@ -63,6 +64,7 @@ A curated collection of resources covering all aspects of load-testing using [Ga
 
 - [Kraken](https://github.com/OctoPerf/kraken) - Load testing IDE based on Gatling by [OctoPerf](https://kraken.octoperf.com/).
 - [Karate Gatling](https://intuit.github.io/karate/karate-gatling/) - Re-use Karate API-tests as performance tests executed by Gatling.
+- [Taurus](https://gettaurus.org/docs/Gatling/) - Gatling Executor in Taurus framework.
 
 ## Trainings & Courses
 
@@ -74,6 +76,7 @@ A curated collection of resources covering all aspects of load-testing using [Ga
 ## Videos
 
 - [Tutorial: Performance Testing with Gatling](https://www.youtube.com/playlist?list=PLd4gvNaNZ4T3NCWsv3zwHYlLGtr9s1-Fz)
+- [Gatling Tutorials for Beginners](https://www.youtube.com/playlist?list=PLw_jGKXm9lIYpTotIJ-R31pXS7qqwXstt) - By James Willett.
 
 ## Community
 
@@ -108,4 +111,4 @@ Please take a look at the [contribution guidelines](CONTRIBUTING.md) first.
 
 ## License
 
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a>
+<a rel="license" href="https://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by/4.0/88x31.png" /></a>
