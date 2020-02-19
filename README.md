@@ -49,6 +49,7 @@ A curated collection of resources covering all aspects of load-testing using [Ga
 - [Scaling out with Gatling](https://gatling.io/docs/current/cookbook/scaling_out/) - Recipe to use several Gatling instances hosted using multiple machines from official Gatling documentation.
 - [Distributed load testing with Gatling and Kubernetes](https://medium.com/de-bijenkorf-techblog/https-medium-com-annashepeleva-distributed-load-testing-with-gatling-and-kubernetes-93ebce26edbe)
 - [Gatling – Scaling Out Your Load Tests](http://www.nimrodstech.com/gatling-cluster-load-testing/)
+- [Distributed Gatling](https://github.com/Abiy/distGatling) - Solution to run gatling simulation tests in a distributed/cluster environment.
 
 ## Plugins
 
