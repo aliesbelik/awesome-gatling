@@ -28,6 +28,7 @@ A curated collection of resources covering all aspects of load-testing using [Ga
   - [Gatling](https://gatling.io/open-source) - Open source version.
   - [Gatling FrontLine](https://gatling.io/gatling-frontline) - Enterprise version, with advanced analytics and integrations.
 - [Documentation](https://gatling.io/docs/current/)
+- [Cheat-sheet](https://gatling.io/docs/current/cheat-sheet/)
 - [Source code](https://github.com/gatling/gatling)
 - [Mailing list](https://gatling.io/community-mailing-list/)
 
