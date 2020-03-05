@@ -99,12 +99,13 @@ A curated collection of resources covering all aspects of load-testing using [Ga
 - [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) - A curated list of amazingly awesome awesomeness.
 - [Awesome Software Quality](https://github.com/ligurio/awesome-software-quality) - A list of free software testing and verification resources.
 - [Awesome Testing](https://github.com/TheJambo/awesome-testing) - A curated list of testing resources.
-- [Awesome Web Performance Metrics](https://github.com/csabapalfi/awesome-web-performance-metrics) - Metrics to help understand page speed and user experience.
+- [Awesome Web Performance Metrics](https://github.com/palfi-ltd/awesome-web-performance-metrics) - Metrics to help understand page speed and user experience.
 - [Awesome Web Performance Optimization](https://github.com/davidsonfellipe/awesome-wpo) - A curated list of Web Performance Optimization.
 - [Awesome Scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems.
 - [Awesome Site Reliability Engineering](https://github.com/dastergon/awesome-sre) - A curated list of Site Reliability and Production Engineering resources.
-- [Awesome JMeter](https://github.com/aliesbelik/awesome-jmeter) - A curated collection of resources around Apache JMeter, open-source load-testing tool.
-- [Awesome Tsung](https://github.com/aliesbelik/awesome-tsung) - A curated collection of resources covering all aspects of Tsung, open-source multi-protocol distributed load testing tool, developed in Erlang.
+- [Awesome JMeter](https://github.com/aliesbelik/awesome-jmeter) - Open-source load testing and performance measurement tool, written in Java.
+- [Awesome Tsung](https://github.com/aliesbelik/awesome-tsung) - Open-source multi-protocol distributed load testing tool, developed in Erlang.
+- [Awesome k6](https://github.com/k6io/awesome-k6) - Open-source, developer-centric performance monitoring and load testing solution.
 
 ## Contributing
 
