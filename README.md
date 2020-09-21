@@ -25,8 +25,8 @@ A curated collection of resources covering all aspects of load-testing using [Ga
 ## Official Resources
 
 - [Homepage](https://gatling.io/)
-  - [Gatling](https://gatling.io/open-source) - Open source version.
-  - [Gatling FrontLine](https://gatling.io/gatling-frontline) - Enterprise version, with advanced analytics and integrations.
+  - [Gatling](https://gatling.io/open-source/) - Open source version.
+  - [Gatling FrontLine](https://gatling.io/gatling-frontline/) - Enterprise version, with advanced analytics and integrations.
 - [Documentation](https://gatling.io/docs/current/)
 - [Cheat-sheet](https://gatling.io/docs/current/cheat-sheet/)
 - [Source code](https://github.com/gatling/gatling)
@@ -54,7 +54,7 @@ A curated collection of resources covering all aspects of load-testing using [Ga
 
 ## Plugins
 
-- [gatling-sbt](https://github.com/gatling/gatling-sbt) - Gatling SBT plugin to integrate Gatling with SBT, allowing to use Gatling as a testing framework.
+- [gatling-sbt](https://github.com/gatling/gatling-sbt-plugin) - Gatling SBT plugin to integrate Gatling with SBT, allowing to use Gatling as a testing framework.
 - [gatling-build-plugin](https://github.com/gatling/gatling-build-plugin) - A SBT plugin to share common settings across Gatling's projects' builds.
 - [gatling-maven-plugin](https://github.com/gatling/gatling-maven-plugin) - Gatling Maven Extensions.
 - [gradle-gatling-plugin](https://github.com/lkishalmi/gradle-gatling-plugin) - Gatling plugin for Gradle.
@@ -99,7 +99,7 @@ A curated collection of resources covering all aspects of load-testing using [Ga
 - [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) - A curated list of amazingly awesome awesomeness.
 - [Awesome Software Quality](https://github.com/ligurio/awesome-software-quality) - A list of free software testing and verification resources.
 - [Awesome Testing](https://github.com/TheJambo/awesome-testing) - A curated list of testing resources.
-- [Awesome Page Speed Metrics](https://github.com/palfi-ltd/awesome-pagespeed-metrics) - Metrics to help understand page speed and user experience.
+- [Awesome Page Speed Metrics](https://github.com/csabapalfi/awesome-pagespeed-metrics) - Metrics to help understand page speed and user experience.
 - [Awesome Web Performance Optimization](https://github.com/davidsonfellipe/awesome-wpo) - A curated list of Web Performance Optimization.
 - [Awesome Scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems.
 - [Awesome Site Reliability Engineering](https://github.com/dastergon/awesome-sre) - A curated list of Site Reliability and Production Engineering resources.
