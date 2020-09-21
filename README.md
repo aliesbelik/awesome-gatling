@@ -76,7 +76,7 @@ A curated collection of resources covering all aspects of load-testing using [Ga
   - [Gatling Fundamentals for Stress, Load & Performance Testing](https://www.udemy.com/course/gatling-fundamentals/)
 
 ## Videos
-
+<!--lint ignore double-link-->
 - [Tutorial: Performance Testing with Gatling](https://www.youtube.com/playlist?list=PLd4gvNaNZ4T3NCWsv3zwHYlLGtr9s1-Fz)
 - [Gatling Tutorials for Beginners](https://www.youtube.com/playlist?list=PLw_jGKXm9lIYpTotIJ-R31pXS7qqwXstt) - By James Willett.
 
