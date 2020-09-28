@@ -54,7 +54,7 @@ A curated collection of resources covering all aspects of load-testing using [Ga
 
 ## Plugins
 
-- [gatling-sbt](https://github.com/gatling/gatling-sbt-plugin) - Gatling SBT plugin to integrate Gatling with SBT, allowing to use Gatling as a testing framework.
+- [gatling-sbt-plugin](https://github.com/gatling/gatling-sbt-plugin) - Gatling SBT plugin to integrate Gatling with SBT, allowing to use Gatling as a testing framework.
 - [gatling-build-plugin](https://github.com/gatling/gatling-build-plugin) - A SBT plugin to share common settings across Gatling's projects' builds.
 - [gatling-maven-plugin](https://github.com/gatling/gatling-maven-plugin) - Gatling Maven Extensions.
 - [gradle-gatling-plugin](https://github.com/lkishalmi/gradle-gatling-plugin) - Gatling plugin for Gradle.
@@ -62,6 +62,10 @@ A curated collection of resources covering all aspects of load-testing using [Ga
 - [gatling-aws](https://github.com/callistaenterprise/gatling-aws) - Gatling custom protocol for AWS Lambda.
 - [gatling-xmpp-protocol](https://github.com/TLmaK0/gatling-xmpp-protocol) - XMPP protocol for stress test XMPP servers with Gatling.
 - [gatling-jwt](https://bitbucket.org/atlassianlabs/gatling-jwt/) - An extension to Gatling 2.0 to help make JWT-signed requests.
+- [gatling-kafka-plugin](https://github.com/TinkoffCreditSystems/gatling-kafka-plugin) - Plugin for support Kafka in Gatling.
+- [gatling-amqp-plugin](https://github.com/TinkoffCreditSystems/gatling-amqp-plugin) - Plugin for support performance testing with AMQP in Gatling (3.2.x).
+- [gatling-jdbc-plugin](https://github.com/TinkoffCreditSystems/gatling-jdbc-plugin) - Simple Gatling plugin for JDBC support.
+- [gatling-picatinny](https://github.com/TinkoffCreditSystems/gatling-picatinny) - Library with a bunch of usefull functions that extend Gatling DSL.
 
 ## Frameworks
 
