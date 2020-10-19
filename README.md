@@ -13,6 +13,7 @@ A curated collection of resources covering all aspects of load-testing using [Ga
 - [Tutorials](#tutorials)
 - [Distributed Testing](#distributed-testing)
 - [Plugins](#plugins)
+- [CI](#ci)
 - [Frameworks](#frameworks)
 - [Trainings & Courses](#trainings--courses)
 - [Videos](#videos)
@@ -38,6 +39,7 @@ A curated collection of resources covering all aspects of load-testing using [Ga
 - [A first look at Gatling, a DSL based load test tool](https://callistaenterprise.se/blogg/teknik/2014/04/16/a-first-look-at-gatling-a-dsl-based-load-test-tool/)
 - [Gatling: Take your performance tests to the next level](https://www.thoughtworks.com/insights/blog/gatling-take-your-performance-tests-next-level)
 - [Load Testing with Gatling. The Complete Guide](https://www.james-willett.com/gatling-load-testing-complete-guide/)
+- [Performance testing with Gatling](https://automationrhapsody.com/performance-testing-with-gatling/)
 
 ## Tutorials
 
@@ -67,6 +69,10 @@ A curated collection of resources covering all aspects of load-testing using [Ga
 - [gatling-jdbc-plugin](https://github.com/TinkoffCreditSystems/gatling-jdbc-plugin) - Simple Gatling plugin for JDBC support.
 - [gatling-picatinny](https://github.com/TinkoffCreditSystems/gatling-picatinny) - Library with a bunch of usefull functions that extend Gatling DSL.
 
+## CI
+
+- [Gatling Jenkins Plugin](https://github.com/jenkinsci/gatling-plugin) - [Jenkins plugin](https://plugins.jenkins.io/gatling/) for Gatling.
+
 ## Frameworks
 
 - [Kraken](https://github.com/OctoPerf/kraken) - Load testing IDE based on Gatling by [OctoPerf](https://kraken.octoperf.com/).
@@ -75,6 +81,7 @@ A curated collection of resources covering all aspects of load-testing using [Ga
 
 ## Trainings & Courses
 
+- [Gatling Academy](https://gatling.io/academy/)
 - Gatling courses by Udemy:
   - [Performance Testing using Gatling - Beginner Level](https://www.udemy.com/course/performance-testing-using-gatling/)
   - [Performance Testing using Gatling - Advanced Level](https://www.udemy.com/course/performance-testing-using-gatling-advanced-level/)
@@ -82,6 +89,7 @@ A curated collection of resources covering all aspects of load-testing using [Ga
 
 ## Videos
 <!--lint ignore double-link-->
+- [Load Testing Done Right with Gatling](https://www.youtube.com/watch?v=VUPTaPms210) - By Stéphane Landelle @ Voxxed Days Belgrade 2015.
 - [Tutorial: Performance Testing with Gatling](https://www.youtube.com/playlist?list=PLd4gvNaNZ4T3NCWsv3zwHYlLGtr9s1-Fz)
 - [Gatling Tutorials for Beginners](https://www.youtube.com/playlist?list=PLw_jGKXm9lIYpTotIJ-R31pXS7qqwXstt) - By James Willett.
 
