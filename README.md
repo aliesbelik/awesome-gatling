@@ -89,10 +89,7 @@ A curated collection of resources covering all aspects of load-testing using [Ga
 ## Trainings & Courses
 
 - [Gatling Academy](https://gatling.io/academy/)
-- Gatling courses by Udemy:
-  - [Performance Testing using Gatling - Beginner Level](https://www.udemy.com/course/performance-testing-using-gatling/)
-  - [Performance Testing using Gatling - Advanced Level](https://www.udemy.com/course/performance-testing-using-gatling-advanced-level/)
-  - [Gatling Fundamentals for Stress, Load & Performance Testing](https://www.udemy.com/course/gatling-fundamentals/)
+- [Gatling Courses by Udemy](https://www.udemy.com/topic/gatling/)
 
 ## Videos
 <!--lint ignore double-link-->
