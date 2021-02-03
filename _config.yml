@@ -1,1 +1,8 @@
+title: Awesome Gatling
+description: Curated collection of resources on Gatling load-testing tools
+author:
+  name: Aliaksandr Belik
+  github: aliesbelik
+show_downloads: false
+google_analytics: UA-154669570-3
 theme: jekyll-theme-cayman
