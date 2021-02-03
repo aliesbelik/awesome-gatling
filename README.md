@@ -18,8 +18,6 @@ A curated collection of resources covering all aspects of load-testing using [Ga
 - [Trainings & Courses](#trainings--courses)
 - [Videos](#videos)
 - [Community](#community)
-  - [Twitter](#twitter)
-  - [Q&A](#qa)
 - [Related](#related)
   - [Awesome Lists](#awesome-lists)
 
@@ -99,14 +97,9 @@ A curated collection of resources covering all aspects of load-testing using [Ga
 
 ## Community
 
-### Twitter
-
-- [@GatlingTool](https://twitter.com/gatlingtool) - Official Twitter account of the Gatling and Gatling FrontLine load testing solutions.
-
-### Q&A
-
 - [Gatling User Group](https://groups.google.com/forum/#!forum/gatling)
-- [Gatling @ Stack Overflow](https://stackoverflow.com/questions/tagged/gatling+or+scala-gatling+or+gatling-plugin)
+- [`gatling` on Stack Overflow](https://stackoverflow.com/questions/tagged/gatling+or+scala-gatling+or+gatling-plugin)
+- [`@GatlingTool` on Twitter](https://twitter.com/gatlingtool)
 
 ## Related
 
