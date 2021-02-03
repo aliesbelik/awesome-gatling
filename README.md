@@ -15,6 +15,7 @@ A curated collection of resources covering all aspects of load-testing using [Ga
 - [Tools](#tools)
   - [Plugins](#plugins)
   - [Frameworks](#frameworks)
+  - [Miscellaneous](#miscellaneous)
 - [CI](#ci)
 - [Trainings & Courses](#trainings--courses)
 - [Videos](#videos)
@@ -86,6 +87,10 @@ A curated collection of resources covering all aspects of load-testing using [Ga
 - [Kraken](https://github.com/OctoPerf/kraken) - Load testing IDE based on Gatling by [OctoPerf](https://kraken.octoperf.com/).
 - [Karate Gatling](https://intuit.github.io/karate/karate-gatling/) - Re-use Karate API-tests as performance tests executed by Gatling.
 - [Taurus](https://gettaurus.org/docs/Gatling/) - Gatling Executor in Taurus framework.
+
+### Miscellaneous
+
+- [dakiya](https://github.com/rupeshmore/dakiya) - Convert Postman collections to Gatling scripts.
 
 ## CI
 
