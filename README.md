@@ -12,9 +12,10 @@ A curated collection of resources covering all aspects of load-testing using [Ga
 - [Getting Started](#getting-started)
 - [Tutorials](#tutorials)
 - [Distributed Testing](#distributed-testing)
-- [Plugins](#plugins)
+- [Tools](#tools)
+  - [Plugins](#plugins)
+  - [Frameworks](#frameworks)
 - [CI](#ci)
-- [Frameworks](#frameworks)
 - [Trainings & Courses](#trainings--courses)
 - [Videos](#videos)
 - [Community](#community)
@@ -52,7 +53,9 @@ A curated collection of resources covering all aspects of load-testing using [Ga
 - [Gatling – Scaling Out Your Load Tests](http://www.nimrodstech.com/gatling-cluster-load-testing/)
 - [Distributed Gatling](https://github.com/Abiy/distGatling) - Solution to run gatling simulation tests in a distributed/cluster environment.
 
-## Plugins
+## Tools
+
+### Plugins
 
 - [gatling-sbt-plugin](https://github.com/gatling/gatling-sbt-plugin) - Gatling SBT plugin to integrate Gatling with SBT, allowing to use Gatling as a testing framework.
 - [gatling-build-plugin](https://github.com/gatling/gatling-build-plugin) - A SBT plugin to share common settings across Gatling's projects' builds.
@@ -74,15 +77,15 @@ A curated collection of resources covering all aspects of load-testing using [Ga
 - [gatling-tcp-extensions](https://github.com/scalecube/gatling-tcp-extensions) - TCP extensions for Gatling.
 - [gatling-thrift](https://github.com/3tty0n/gatling-thrift) - Gatling third party plugin for Apache Thrift.
 
-## CI
-
-- [Gatling Jenkins Plugin](https://github.com/jenkinsci/gatling-plugin) - [Jenkins plugin](https://plugins.jenkins.io/gatling/) for Gatling.
-
-## Frameworks
+### Frameworks
 
 - [Kraken](https://github.com/OctoPerf/kraken) - Load testing IDE based on Gatling by [OctoPerf](https://kraken.octoperf.com/).
 - [Karate Gatling](https://intuit.github.io/karate/karate-gatling/) - Re-use Karate API-tests as performance tests executed by Gatling.
 - [Taurus](https://gettaurus.org/docs/Gatling/) - Gatling Executor in Taurus framework.
+
+## CI
+
+- [Gatling Jenkins Plugin](https://github.com/jenkinsci/gatling-plugin) - [Jenkins plugin](https://plugins.jenkins.io/gatling/) for Gatling.
 
 ## Trainings & Courses
 
