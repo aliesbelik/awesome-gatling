@@ -15,6 +15,7 @@ A curated collection of resources covering all aspects of load-testing using [Ga
 - [Tools](#tools)
   - [Plugins](#plugins)
   - [Frameworks](#frameworks)
+  - [Reporting](#reporting)
   - [Miscellaneous](#miscellaneous)
 - [CI](#ci)
 - [Trainings & Courses](#trainings--courses)
@@ -87,6 +88,11 @@ A curated collection of resources covering all aspects of load-testing using [Ga
 - [Kraken](https://github.com/OctoPerf/kraken) - Load testing IDE based on Gatling by [OctoPerf](https://kraken.octoperf.com/).
 - [Karate Gatling](https://intuit.github.io/karate/karate-gatling/) - Re-use Karate API-tests as performance tests executed by Gatling.
 - [Taurus](https://gettaurus.org/docs/Gatling/) - Gatling Executor in Taurus framework.
+
+### Reporting
+
+- [gatling-report](https://github.com/nuxeo/gatling-report) - Parse Galting simulation.log files to output CSV stats or build HTML reports with Plotly charts.
+- [gatling2allure](https://github.com/biski/gatling2allure) - Convert Gatling log to Allure report.
 
 ### Miscellaneous
 
