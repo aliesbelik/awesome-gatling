@@ -62,7 +62,7 @@ A curated collection of resources covering all aspects of load-testing using [Ga
 - [gatling-sbt-plugin](https://github.com/gatling/gatling-sbt-plugin) - Gatling SBT plugin to integrate Gatling with SBT, allowing to use Gatling as a testing framework.
 - [gatling-build-plugin](https://github.com/gatling/gatling-build-plugin) - A SBT plugin to share common settings across Gatling's projects' builds.
 - [gatling-maven-plugin](https://github.com/gatling/gatling-maven-plugin) - Gatling Maven Extensions.
-- [gradle-gatling-plugin](https://github.com/lkishalmi/gradle-gatling-plugin) - Gatling plugin for Gradle.
+- [gatling-gradle-plugin](https://github.com/gatling/gatling-gradle-plugin) - Gatling plugin for Gradle.
 - [gatling-remote-sbt](https://github.com/Pravoru/gatling-remote-sbt) - Remote execution plugin for Gatling load tests.
 - [gatling-junitrunner](https://github.com/Pravoru/gatling-junitrunner) - JUnit wrapper around Gatling simulations.
 - [gatling-grpc](https://github.com/phiSgr/gatling-grpc) - Gatling load test plugin for gRPC.
