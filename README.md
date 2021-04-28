@@ -97,6 +97,8 @@ A curated collection of resources covering all aspects of load-testing using [Ga
 ### Miscellaneous
 
 - [dakiya](https://github.com/rupeshmore/dakiya) - Convert Postman collections to Gatling scripts.
+- [gatling.g8](https://github.com/gatling/gatling.g8) - Giter8 template for Gatling.
+- [gatling-template.g8](https://github.com/TinkoffCreditSystems/gatling-template.g8) - A Giter8 template for Gatling performance test project.
 
 ## CI
 
