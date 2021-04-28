@@ -1,9 +1,9 @@
 # Awesome Gatling [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-
+<!--lint ignore double-link-->
 [<img src="assets/images/gatling-logo.svg" align="right" width="260" alt="Gatling">](https://gatling.io/)
-
+<!--lint ignore double-link-->
 A curated collection of resources covering all aspects of load-testing using [Gatling](https://gatling.io/) and related stuff: plugins, integrations, testing techniques, devops practicies, etc.
-
+<!--lint ignore double-link-->
 > [Gatling](https://gatling.io/) is an open-source load and performance testing framework based on Scala, Akka and Netty.
 
 ## Contents
@@ -25,7 +25,7 @@ A curated collection of resources covering all aspects of load-testing using [Ga
   - [Awesome Lists](#awesome-lists)
 
 ## Official Resources
-
+<!--lint ignore double-link-->
 - [Homepage](https://gatling.io/)
   - [Gatling](https://gatling.io/open-source/) - Open source version.
   - [Gatling FrontLine](https://gatling.io/gatling-frontline/) - Enterprise version, with advanced analytics and integrations.
@@ -108,7 +108,7 @@ A curated collection of resources covering all aspects of load-testing using [Ga
 - [Gatling Courses by Udemy](https://www.udemy.com/topic/gatling/)
 
 ## Videos
-<!--lint ignore double-link-->
+
 - [Load Testing Done Right with Gatling](https://www.youtube.com/watch?v=VUPTaPms210) - By Stéphane Landelle @ Voxxed Days Belgrade 2015.
 - [Tutorial: Performance Testing with Gatling](https://www.youtube.com/playlist?list=PLd4gvNaNZ4T3NCWsv3zwHYlLGtr9s1-Fz)
 - [Gatling Tutorials for Beginners](https://www.youtube.com/playlist?list=PLw_jGKXm9lIYpTotIJ-R31pXS7qqwXstt) - By James Willett.
