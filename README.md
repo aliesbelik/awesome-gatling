@@ -28,11 +28,10 @@ A curated collection of resources covering all aspects of load-testing using [Ga
 <!--lint ignore double-link-->
 - [Homepage](https://gatling.io/)
   - [Gatling](https://gatling.io/open-source/) - Open source version.
-  - [Gatling FrontLine](https://gatling.io/gatling-frontline/) - Enterprise version, with advanced analytics and integrations.
-- [Documentation](https://gatling.io/docs/current/)
-- [Cheat-sheet](https://gatling.io/docs/current/cheat-sheet/)
+  - [Gatling Enterprise](https://gatling.io/enterprise/) - Enterprise version (formerly known as Gatling FrontLine), with advanced analytics and integrations.
+- [Documentation](https://gatling.io/docs/gatling/)
+- [Cheat-sheet](https://gatling.io/docs/gatling/reference/current/cheat-sheet/)
 - [Source code](https://github.com/gatling/gatling)
-- [Mailing list](https://gatling.io/community-mailing-list/)
 
 ## Getting Started
 
@@ -50,7 +49,7 @@ A curated collection of resources covering all aspects of load-testing using [Ga
 
 ## Distributed Testing
 
-- [Scaling out with Gatling](https://gatling.io/docs/current/cookbook/scaling_out/) - Recipe to use several Gatling instances hosted using multiple machines from official Gatling documentation.
+- [Scaling out with Gatling](https://gatling.io/docs/gatling/guides/scaling_out/) - Recipe to use several Gatling instances hosted using multiple machines from official Gatling documentation.
 - [Distributed load testing with Gatling and Kubernetes](https://medium.com/de-bijenkorf-techblog/https-medium-com-annashepeleva-distributed-load-testing-with-gatling-and-kubernetes-93ebce26edbe)
 - [Gatling – Scaling Out Your Load Tests](http://www.nimrodstech.com/gatling-cluster-load-testing/)
 - [Distributed Gatling](https://github.com/Abiy/distGatling) - Solution to run gatling simulation tests in a distributed/cluster environment.
