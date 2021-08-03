@@ -20,6 +20,8 @@ A curated collection of resources covering all aspects of load-testing using [Ga
 - [CI](#ci)
 - [Trainings & Courses](#trainings--courses)
 - [Videos](#videos)
+  - [Talks](#talks)
+  - [Video Tutorials](#video-tutorials)
 - [Community](#community)
 - [Related](#related)
   - [Awesome Lists](#awesome-lists)
@@ -110,9 +112,14 @@ A curated collection of resources covering all aspects of load-testing using [Ga
 
 ## Videos
 
-- [Load Testing Done Right with Gatling](https://www.youtube.com/watch?v=VUPTaPms210) - By Stéphane Landelle @ Voxxed Days Belgrade 2015.
-- [Tutorial: Performance Testing with Gatling](https://www.youtube.com/playlist?list=PLd4gvNaNZ4T3NCWsv3zwHYlLGtr9s1-Fz)
-- [Gatling Tutorials for Beginners](https://www.youtube.com/playlist?list=PLw_jGKXm9lIYpTotIJ-R31pXS7qqwXstt) - By James Willett.
+### Talks
+
+- [Load Testing Done Right with Gatling](https://www.youtube.com/watch?v=VUPTaPms210) - Stéphane Landelle @ Voxxed Days Belgrade 2015.
+
+### Video Tutorials
+
+- [Performance Testing with Gatling](https://www.youtube.com/playlist?list=PLd4gvNaNZ4T3NCWsv3zwHYlLGtr9s1-Fz) - Tutorial series by Tomi Tiihonen.
+- [Gatling Tutorials for Beginners](https://www.youtube.com/playlist?list=PLw_jGKXm9lIYpTotIJ-R31pXS7qqwXstt) - Tutorial series by James Willett.
 
 ## Community
 
@@ -134,7 +141,7 @@ A curated collection of resources covering all aspects of load-testing using [Ga
 - [Awesome Site Reliability Engineering](https://github.com/dastergon/awesome-sre) - A curated list of Site Reliability and Production Engineering resources.
 - [Awesome JMeter](https://github.com/aliesbelik/awesome-jmeter) - Open-source load testing and performance measurement tool, written in Java.
 - [Awesome Tsung](https://github.com/aliesbelik/awesome-tsung) - Open-source multi-protocol distributed load testing tool, developed in Erlang.
-- [Awesome k6](https://github.com/k6io/awesome-k6) - Open-source, developer-centric performance monitoring and load testing solution.
+- [Awesome k6](https://github.com/grafana/awesome-k6) - Open-source, developer-centric performance monitoring and load testing solution.
 - [Awesome Locust](https://github.com/aliesbelik/awesome-locust) - Open-source scalable load-testing framework written in Python.
 
 ## Contributing
