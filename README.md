@@ -2,7 +2,7 @@
 <!--lint ignore double-link-->
 [<img src="assets/images/gatling-logo.svg" align="right" width="260" alt="Gatling">](https://gatling.io/)
 <!--lint ignore double-link-->
-A curated collection of resources covering all aspects of load-testing using [Gatling](https://gatling.io/) and related stuff: plugins, integrations, testing techniques, devops practicies, etc.
+A curated collection of resources covering all aspects of load-testing using [Gatling](https://gatling.io/) and related stuff: plugins, integrations, testing techniques, devops practices, etc.
 <!--lint ignore double-link-->
 > [Gatling](https://gatling.io/) is an open-source load and performance testing framework based on Scala, Akka and Netty.
 
@@ -46,7 +46,7 @@ A curated collection of resources covering all aspects of load-testing using [Ga
 ## Tutorials
 
 - [Load testing gRPC services with Gatling](https://medium.com/@georgeleung_7777/load-testing-grpc-services-with-gatling-990025c77055)
-- [Creating a custom Gatling prococol for AWS Lambda](https://callistaenterprise.se/blogg/teknik/2016/11/26/gatling-custom-protocol/)
+- [Creating a custom Gatling protocol for AWS Lambda](https://callistaenterprise.se/blogg/teknik/2016/11/26/gatling-custom-protocol/)
 - [Load testing ZeroMQ with a custom DSL for Gatling](http://mintbeans.com/load-testing-zeromq-with-gatling/)
 
 ## Distributed Testing
@@ -54,14 +54,14 @@ A curated collection of resources covering all aspects of load-testing using [Ga
 - [Scaling out with Gatling](https://gatling.io/docs/gatling/guides/scaling_out/) - Recipe to use several Gatling instances hosted using multiple machines from official Gatling documentation.
 - [Distributed load testing with Gatling and Kubernetes](https://medium.com/de-bijenkorf-techblog/https-medium-com-annashepeleva-distributed-load-testing-with-gatling-and-kubernetes-93ebce26edbe)
 - [Gatling – Scaling Out Your Load Tests](http://www.nimrodstech.com/gatling-cluster-load-testing/)
-- [Distributed Gatling](https://github.com/Abiy/distGatling) - Solution to run gatling simulation tests in a distributed/cluster environment.
+- [Distributed Gatling](https://github.com/Abiy/distGatling) - Solution to run Gatling simulation tests in a distributed/cluster environment.
 
 ## Tools
 
 ### Plugins
 
 - [gatling-sbt-plugin](https://github.com/gatling/gatling-sbt-plugin) - Gatling SBT plugin to integrate Gatling with SBT, allowing to use Gatling as a testing framework.
-- [gatling-build-plugin](https://github.com/gatling/gatling-build-plugin) - A SBT plugin to share common settings across Gatling's projects' builds.
+- [gatling-build-plugin](https://github.com/gatling/gatling-build-plugin) - An SBT plugin to share common settings across Gatling's projects' builds.
 - [gatling-maven-plugin](https://github.com/gatling/gatling-maven-plugin) - Gatling Maven Extensions.
 - [gatling-gradle-plugin](https://github.com/gatling/gatling-gradle-plugin) - Gatling plugin for Gradle.
 - [gatling-remote-sbt](https://github.com/Pravoru/gatling-remote-sbt) - Remote execution plugin for Gatling load tests.
@@ -75,7 +75,7 @@ A curated collection of resources covering all aspects of load-testing using [Ga
 - [gatling-kafka-plugin](https://github.com/TinkoffCreditSystems/gatling-kafka-plugin) - Plugin for support Kafka in Gatling.
 - [gatling-amqp-plugin](https://github.com/TinkoffCreditSystems/gatling-amqp-plugin) - Plugin for support performance testing with AMQP in Gatling (3.2.x).
 - [gatling-jdbc-plugin](https://github.com/TinkoffCreditSystems/gatling-jdbc-plugin) - Simple Gatling plugin for JDBC support.
-- [gatling-picatinny](https://github.com/TinkoffCreditSystems/gatling-picatinny) - Library with a bunch of usefull functions that extend Gatling DSL.
+- [gatling-picatinny](https://github.com/TinkoffCreditSystems/gatling-picatinny) - Library with a bunch of useful functions that extend Gatling DSL.
 - [gatling-sql](https://github.com/tmcgrath/gatling-sql) - Gatling extension for JDBC or Spark Thrift Server stress testing.
 - [gatling-tcp-extensions](https://github.com/scalecube/gatling-tcp-extensions) - TCP extensions for Gatling.
 - [gatling-thrift](https://github.com/3tty0n/gatling-thrift) - Gatling third party plugin for Apache Thrift.
@@ -93,7 +93,7 @@ A curated collection of resources covering all aspects of load-testing using [Ga
 
 ### Reporting
 
-- [gatling-report](https://github.com/nuxeo/gatling-report) - Parse Galting simulation.log files to output CSV stats or build HTML reports with Plotly charts.
+- [gatling-report](https://github.com/nuxeo/gatling-report) - Parse Gatling simulation.log files to output CSV stats or build HTML reports with Plotly charts.
 - [gatling2allure](https://github.com/biski/gatling2allure) - Convert Gatling log to Allure report.
 
 ### Miscellaneous
