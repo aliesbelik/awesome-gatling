@@ -2,7 +2,7 @@
 <!--lint ignore double-link-->
 [<img src="assets/images/gatling-logo.svg" align="right" width="260" alt="Gatling">](https://gatling.io/)
 <!--lint ignore double-link-->
-A curated collection of resources covering all aspects of load-testing using [Gatling](https://gatling.io/) and related stuff: plugins, integrations, testing techniques, devops practices, etc.
+A curated collection of resources covering all aspects of load-testing using [Gatling](https://gatling.io/) and related stuff: plugins, integrations, testing techniques, DevOps practices, etc.
 <!--lint ignore double-link-->
 > [Gatling](https://gatling.io/) is an open-source load and performance testing framework based on Scala, Akka and Netty.
 
@@ -132,8 +132,6 @@ A curated collection of resources covering all aspects of load-testing using [Ga
 
 ### Awesome Lists
 
-- [Awesome](https://github.com/sindresorhus/awesome) - The original awesome list of awesome lists.
-- [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) - A curated list of amazingly awesome awesomeness.
 - [Awesome Software Quality](https://github.com/ligurio/software-quality-wiki) - A list of free software testing and verification resources.
 - [Awesome Testing](https://github.com/TheJambo/awesome-testing) - A curated list of testing resources.
 - [Awesome Page Speed Metrics](https://github.com/csabapalfi/awesome-pagespeed-metrics) - Metrics to help understand page speed and user experience.
@@ -149,5 +147,3 @@ A curated collection of resources covering all aspects of load-testing using [Ga
 
 Contributions are welcome!<br>
 Please take a look at the [contribution guidelines](CONTRIBUTING.md) first.
-
-<a rel="license" href="https://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by/4.0/88x31.png" /></a>
