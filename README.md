@@ -94,6 +94,7 @@ A curated collection of resources covering all aspects of load testing using [Ga
 
 - [gatling-report](https://github.com/nuxeo/gatling-report) - Parse Gatling simulation.log files to output CSV stats or build HTML reports with Plotly charts.
 - [gatling2allure](https://github.com/biski/gatling2allure) - Convert Gatling log to Allure report.
+- [gatling-elasticsearch](https://github.com/Amerousful/gatling-elasticsearch-logs) - Logger which parses raw Gatling logs and sends them to the Elasticsearch.
 
 ### Sandbox
 
