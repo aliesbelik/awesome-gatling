@@ -79,6 +79,8 @@ A curated collection of resources covering all aspects of load testing using [Ga
 - [gatling-bolt](https://github.com/sarmbruster/gatling-bolt) - Support Neo4j Bolt protocol for Gatling.
 - [gatling-zeromq](https://github.com/softwaremill/gatling-zeromq) - A Gatling stress test plugin for ZeroMQ protocol.
 - [gatling-dubbo](https://github.com/youzan/gatling-dubbo) - A Gatling plugin for running load tests on Apache Dubbo.
+- [gatling-wait](https://github.com/Amerousful/gatling-wait) - Plugin that simplifies waiting for specific events allowing customizable conditions, attempt management, and error handling.
+- [gatling-kafka](https://github.com/Amerousful/gatling-kafka) - Gatling plugin for Kafka. Supports: `fire-and-forget`, `request-reply` and `only consume`.
 
 ### Frameworks
 
@@ -91,6 +93,7 @@ A curated collection of resources covering all aspects of load testing using [Ga
 
 - [gatling-report](https://github.com/nuxeo/gatling-report) - Parse Gatling simulation.log files to output CSV stats or build HTML reports with Plotly charts.
 - [gatling2allure](https://github.com/biski/gatling2allure) - Convert Gatling log to Allure report.
+- [gatling-elasticsearch](https://github.com/Amerousful/gatling-elasticsearch-logs) - Logger which parses raw Gatling logs and sends them to the Elasticsearch.
 
 ### Sandbox
 
