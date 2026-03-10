@@ -19,6 +19,7 @@ A curated collection of resources covering all aspects of load testing using [Ga
   - [Sandbox](#sandbox)
   - [Miscellaneous](#miscellaneous)
 - [CI](#ci)
+- [Test Management](#test-management)
 - [Trainings & Courses](#trainings--courses)
 - [Videos](#videos)
   - [Talks](#talks)
@@ -110,6 +111,10 @@ A curated collection of resources covering all aspects of load testing using [Ga
 
 - [Gatling Jenkins Plugin](https://github.com/jenkinsci/gatling-plugin) - [Jenkins plugin](https://plugins.jenkins.io/gatling/) for Gatling.
 - [run-gatling](https://github.com/liatrio/run-gatling) - GitHub Action to easily integrate Gatling performance tests to GitHub workflows.
+
+## Test Management
+
+- [Performance and load testing with Gatling](https://docs.getxray.app/space/XRAYCLOUD/44565472/Performance+and+load+testing+with+Gatling) - Integrating with Xray Test Management on Jira and Gatling.
 
 ## Trainings & Courses
 
