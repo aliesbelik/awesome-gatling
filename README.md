@@ -71,6 +71,7 @@ A curated collection of resources covering all aspects of load testing using [Ga
 - [gatling-mqtt](https://github.com/mnogu/gatling-mqtt) - A Gatling plugin for stress testing MQTT.
 - [gatling-kafka](https://github.com/mnogu/gatling-kafka) - A Gatling plugin for stress testing Apache Kafka protocol.
 - [gatling-kafka](https://github.com/Amerousful/gatling-kafka) - Gatling plugin for Kafka.
+- [gatling-kafka-extension](https://github.com/kbdering/GatlingMessaging) - A Gatling extension for load testing Kafka applications, with a focus on Request-Reply (RPC) patterns, Quality of Service (QoS) measurement, and resilience testing.
 - [gatling-kafka-plugin](https://github.com/galax-io/gatling-kafka-plugin) - Plugin for support Kafka in Gatling.
 - [gatling-amqp-plugin](https://github.com/galax-io/gatling-amqp-plugin) - Plugin for support performance testing with AMQP in Gatling (3.2.x).
 - [gatling-jdbc-plugin](https://github.com/galax-io/gatling-jdbc-plugin) - Simple Gatling plugin for JDBC support.
