@@ -83,6 +83,8 @@ A curated collection of resources covering all aspects of load testing using [Ga
 - [gatling-zeromq](https://github.com/softwaremill/gatling-zeromq) - A Gatling stress test plugin for ZeroMQ protocol.
 - [gatling-dubbo](https://github.com/youzan/gatling-dubbo) - A Gatling plugin for running load tests on Apache Dubbo.
 - [gatling-wait](https://github.com/Amerousful/gatling-wait) - Plugin that simplifies waiting for specific events allowing customizable conditions, attempt management, and error handling.
+- [gatling-dummy-sampler](https://github.com/i-nahornyi/gatling-dummy-sampler) - Gatling implementation of Dummy Sampler, a plugin for simulating realistic actions without making actual requests.
+- [gatling-playwright-plugin](https://github.com/i-nahornyi/gatling-playwright-plugin) - A simple Gatling plugin for UI performance testing using Playwright.
 
 ### Frameworks
 
